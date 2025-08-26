@@ -125,7 +125,7 @@ boton_eliminar.grid(row=0, column=1, padx=10)
 
 # Estado
 estado = tk.StringVar()
-estado.set("🎧 Listo para buscar canciones.")
+estado.set("🎧 Listo...buscar canciones.")
 tk.Label(ventana, textvariable=estado).pack(pady=5)
 
 ventana.mainloop()
