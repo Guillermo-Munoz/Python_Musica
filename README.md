@@ -32,10 +32,4 @@ Una aplicación de escritorio hecha en Python que te permite:
 
 ---
 
-## 📦 Instalación
 
-1. Clona el repositorio:
-
-```bash
-git clone https://github.com/tuusuario/spotify-youtube-gui.git
-cd spotify-youtube-gui
